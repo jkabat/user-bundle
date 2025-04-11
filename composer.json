@@ -15,9 +15,9 @@
     ],
     "require": {
         "msgphp/user": "^0.15",
-        "symfony/config": "^5.4 || ^6.4",
-        "symfony/dependency-injection": "^5.4 || ^6.4",
-        "symfony/http-kernel": "^5.4 || ^6.4"
+        "symfony/config": "^5.4 || ^6.4 || ^7",
+        "symfony/dependency-injection": "^5.4 || ^6.4 || ^7",
+        "symfony/http-kernel": "^5.4 || ^6.4 || ^7"
     },
     "config": {
         "preferred-install": {
